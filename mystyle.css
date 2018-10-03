@@ -1,12 +1,16 @@
 body {
+    text-align: center;
+    font-family:"comic sans";
     background-color: cyan;
 }
 
 h1 {
+    
     color: orange;
     margin-left: 20px;
 }
 
 h2 {
+   
     color: darkblue
 }
