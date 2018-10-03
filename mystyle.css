@@ -1,11 +1,11 @@
 body {
     text-align: center;
-    font-family:"comic sans";
+   
     background-color: cyan;
 }
 
 h1 {
-    
+    font-family:"comic sans";
     color: orange;
     margin-left: 20px;
 }
