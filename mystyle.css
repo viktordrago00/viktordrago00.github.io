@@ -12,5 +12,38 @@ h1 {
 
 h2 {
    
-    color: darkblue
+    color: white;
 }
+
+p {
+    color: white;
+}
+
+    * {
+        box-sizing: border-box;
+    }
+    .column {
+        float: left;
+        width: 33.33%;
+        padding: 50px;
+        height: 300px;
+    }
+    .row {
+        content: "";
+        display: table;
+        clear: both;
+    }
+    * {
+        box-sizing: border-box;
+    }
+    .column {
+        float: left;
+        width: 33.33%;
+        padding: 50px;
+        height: 300px;
+    }
+    .row {
+        content: "";
+        display: table;
+        clear: both;
+    }
