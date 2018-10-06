@@ -1,7 +1,7 @@
 body {
     text-align: center;
    
-    background-color:teal;
+    background-color:black;
 }
 
 h1 {
@@ -12,10 +12,10 @@ h1 {
 
 h2 {
    
-    color: white;
+    color: cyan;
 }
 
 p {
-    color: white;
+    color: cyan;
 }
 
