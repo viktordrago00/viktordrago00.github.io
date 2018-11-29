@@ -1,7 +1,7 @@
 body {
     text-align: center;
     padding-top: 3.5rem;
-    background-color: #3c3744;
+    background-color: #160c28;
 }
 
 h1 {
@@ -22,3 +22,12 @@ p {
 .jumbotron {
     background-color: #00487c;
 }
+
+.fitscheme {
+    color :#87bcde
+}
+
+.jumbotron2 {
+    background-color: black
+}
+
