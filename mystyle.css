@@ -1,28 +1,24 @@
 body {
     text-align: center;
     padding-top: 3.5rem;
-    background-color:black;
+    background-color: #3c3744;
 }
 
 h1 {
    
-    color: orange;
+    color: #0496ff;
     margin-left: 20px;
 }
 
 h2 {
    
-    color: cyan;
+    color: #87bcde;
 }
 
 p {
-    color: cyan;
+    color: #c6d4ff;
 }
 
 .jumbotron {
-    background-color: darkblue;
-}
-
-.blue {
-    color: cyan;
+    background-color: #00487c;
 }
