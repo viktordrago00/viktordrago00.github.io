@@ -31,3 +31,12 @@ p {
     background-color: black
 }
 
+.footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #00487c;
+    color: white;
+    text-align: center
+}
